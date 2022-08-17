@@ -17,18 +17,6 @@ ALTER PROC [dbo].[Users_InsertV2]
 		,@RoleId int
 		,@Id int OUTPUT
 
-
--- =============================================
-    -- Author: Aeron Inouye
-    -- Create date: 5/16/2022
-    -- Description: User_Insert for dbo.Users
-    -- Code Reviewer:
-    -- MODIFIED BY: author
-    -- MODIFIED DATE: M/DD/YEAR
-    -- Code Reviewer: 
-    -- Note: 
--- =============================================
-
 AS
 /*----TEST CODE----
 
