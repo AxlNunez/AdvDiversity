@@ -1,0 +1,23 @@
+.industries-section {
+   padding-top: 40px;
+   padding-bottom: 40px;
+   background-color: rgb(255, 255, 255);
+
+}
+
+.industries-section .row {
+   padding: 0px;
+}
+
+.industries-section .column {
+   padding: 0px;
+}
+
+.industries-row {
+   margin-top: 24px;
+}
+
+.demo-box:before {
+   content: '';
+   background-color: black;
+}
