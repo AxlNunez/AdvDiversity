@@ -8,3 +8,5 @@ This repository consists of my contribution to the build for The Institute to Ad
 - Front End - React.js, Javascript, Bootstrap 5, CSS 3
 - Middle Tier - C#, .NET Core, ASP.NET MVC
 - Back End - SQL, Microsoft SQL Server
+
+I worked on integration of the Site References component to run in conjunction with out new user registration as well as updating the navigation for the web application for both desktop and mobile view.
